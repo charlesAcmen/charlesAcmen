@@ -1,0 +1,36 @@
+name: Generate Trophy
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # 每天半夜自动生成一次，省时省力
+  workflow_dispatch: # 允许你手动点击测试
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # 必须赋予写入权限，以便把图片存入仓库
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Generate trophy card
+        uses: soulteary/github-profile-trophy-action@v1.0.0
+        with:
+          # 参数设计深度解析：
+          # username: charlesAcmen (绑定你的用户名)
+          # theme: radical (采用和你 Readme Stats 一致的高级暗黑紫主题)
+          # column: 5 (限制一排最多显示5个奖杯，防止在小屏幕上排版崩掉。-1 代表自适应)
+          # margin-w: 15 (奖杯水平间距，防止挤在一起)
+          # margin-h: 15 (奖杯垂直间距)
+          options: 'username=${{ github.repository_owner }}&theme=radical&column=5&margin-w=15&margin-h=15'
+          path: profile/trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
+      # 自动提交到你的仓库中
+      - name: Commit trophy card
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/trophy.svg
+          git commit -m "Update README trophy" || exit 0
+          git push
