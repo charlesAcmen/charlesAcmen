@@ -30,6 +30,9 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesAcmen&layout=compact&theme=radical" width="48%" />
 </div>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <img src="./profile-3d-contrib/profile-night-view.svg" width="100%">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=charlesAcmen&theme=radical&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
