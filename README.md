@@ -1,9 +1,8 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FE428E&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+YuanYiJie+👋;Focus+on+C%2B%2B+%2F+Go+%2F+Distributed+Systems;I'm+implementing+Raft_KV+...;And+optimizing+with+CUDA+🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=24&pause=1000&color=FF007F&center=true&vCenter=true&width=650&lines=Welcome+to+Vice+City;YuanYiJie+is+on+the+run...;Coding+high-performance+systems;Outlaws+For+Life+🤠" alt="GTA 6 Typing SVG" />
   </a>
 </div>
-## Hi there 👋
 
 <!--
 **charlesAcmen/charlesAcmen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
