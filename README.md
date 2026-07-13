@@ -24,9 +24,14 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  ![Rockstar Games](https://img.shields.io/badge/Rockstar_Games-FCAF17?style=for-the-badge&logo=rockstargames&logoColor=black)
-  ![GTA VI](https://img.shields.io/badge/GTA_VI-VICE_CITY_2026-FF007F?style=for-the-badge&logo=rockstargames&logoColor=white)
-  ![Red Dead Redemption II](https://img.shields.io/badge/RDR_II-OUTLAWS_FOR_LIFE-B30000?style=for-the-badge&logo=rockstargames&logoColor=white)
+  <!-- Rockstar Games 黄黑经典标 -->
+  <img src="https://img.shields.io/badge/Rockstar_Games-FCAF17?style=for-the-badge&logo=rockstargames&logoColor=black" alt="Rockstar Games" />
+  
+  <!-- GTA 6 霓虹粉紫标 -->
+  <img src="https://img.shields.io/badge/GTA_VI-VICE_CITY_2026-FF007F?style=for-the-badge&logo=rockstargames&logoColor=white" alt="GTA VI" />
+  
+  <!-- 荒野大镖客2 深红镖 -->
+  <img src="https://img.shields.io/badge/RDR_II-OUTLAWS_FOR_LIFE-B30000?style=for-the-badge&logo=rockstargames&logoColor=white" alt="RDR 2" />
 </div>
 
 ### 🐍 My GitHub Contribution Snake
