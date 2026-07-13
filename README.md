@@ -29,6 +29,11 @@ Here are some ideas to get you started:
 </div>
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <img src="./profile-3d-contrib/profile-night-view.svg" width="100%">
