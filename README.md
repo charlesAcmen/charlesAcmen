@@ -38,5 +38,5 @@ No activity tracked
 
 <img src="./profile-3d-contrib/profile-night-view.svg" width="100%">
 
-[![trophy](https://github-profile-trophy-liard-delta.vercel.app/?username=charlesAcmen&theme=radical&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+![Trophy](./profile/trophy.svg)
 
