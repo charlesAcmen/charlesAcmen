@@ -24,7 +24,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  ![Rockstar Games](https://img.shields.io/badge/Rockstar_Games-FCAF17?style=for-the-badge&logo=rockstargames&logoColor=black)
+  ![GTA VI](https://img.shields.io/badge/GTA_VI-VICE_CITY_2026-FF007F?style=for-the-badge&logo=rockstargames&logoColor=white)
+  ![Red Dead Redemption II](https://img.shields.io/badge/RDR_II-OUTLAWS_FOR_LIFE-B30000?style=for-the-badge&logo=rockstargames&logoColor=white)
 </div>
 
 ### 🐍 My GitHub Contribution Snake
