@@ -24,10 +24,8 @@ Here are some ideas to get you started:
 </picture>
 
 <div align="center">
-  <!-- 左边是你的数据卡片 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=charlesAcmen&show_icons=true&theme=radical" width="48%" />
-  <!-- 右边是你最常用的语言占比环形图 -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesAcmen&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=charlesAcmen&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=charlesAcmen&layout=compact&theme=radical" width="48%" />
 </div>
 
 <!--START_SECTION:waka-->
