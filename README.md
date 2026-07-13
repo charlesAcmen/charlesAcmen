@@ -22,3 +22,6 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/charlesAcmen/charlesAcmen/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/charlesAcmen/charlesAcmen/output/github-contribution-grid-snake.svg">
 </picture>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=charlesAcmen&theme=radical&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
