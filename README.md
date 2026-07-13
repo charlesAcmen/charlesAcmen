@@ -45,3 +45,8 @@ No activity tracked
 
 ![Trophy](./profile/trophy.svg)
 
+<div align="center">
+  <p>👁️ 已经有这么多人围观了我的主页：</p>
+  <img src="https://count.getloli.com/get/@charlesAcmen?theme=rule34" alt="Moe Counter" />
+</div>
+
