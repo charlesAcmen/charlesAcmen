@@ -23,5 +23,12 @@ Here are some ideas to get you started:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/charlesAcmen/charlesAcmen/output/github-contribution-grid-snake.svg">
 </picture>
 
+<div align="center">
+  <!-- 左边是你的数据卡片 -->
+  <img src="https://github-readme-stats.vercel.app/api?username=charlesAcmen&show_icons=true&theme=radical" width="48%" />
+  <!-- 右边是你最常用的语言占比环形图 -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesAcmen&layout=compact&theme=radical" width="48%" />
+</div>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=charlesAcmen&theme=radical&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
