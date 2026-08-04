@@ -50,7 +50,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Cuda          34 mins               █████████░░░░░░░░░░░░░░░░   36.23 %
+C++           31 mins               ████████▒░░░░░░░░░░░░░░░░   32.82 %
+CMake         9 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.55 %
+C             8 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 %
+JSON          5 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 %
 ```
 
 <!--END_SECTION:waka-->
