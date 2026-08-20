@@ -50,11 +50,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Go            30 mins               █████████░░░░░░░░░░░░░░░░   35.81 %
-C++           25 mins               ███████▒░░░░░░░░░░░░░░░░░   29.75 %
-Cuda          15 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.32 %
-Markdown      12 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.58 %
-C             0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
