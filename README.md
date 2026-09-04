@@ -34,6 +34,14 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/RDR_II-OUTLAWS_FOR_LIFE-B30000?style=for-the-badge&logo=rockstargames&logoColor=white" alt="RDR 2" />
 </div>
 
+<div align="center">
+  <img src="images/myself.jpg" alt="Yuan Yijie" width="55%" />
+  <br />
+  <img src="images/1.jpg" alt="Project highlight 1" width="30%" />
+  <img src="images/2.jpg" alt="Project highlight 2" width="30%" />
+  <img src="images/3.jpg" alt="Project highlight 3" width="30%" />
+</div>
+
 ### 🐍 My GitHub Contribution Snake
 
 <picture>
